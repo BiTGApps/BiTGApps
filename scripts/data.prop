@@ -1,2 +1,0 @@
-# Prevent purging of runtime permissions on dirty install
-ro.build.system_data=true
