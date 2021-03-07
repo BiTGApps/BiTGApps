@@ -1,7 +1,7 @@
 # BiTGApps Documentation
 
 * [Config Usage](configs.md)
-* [Generating Boot Logs](boot_log.md)
+* [Generating Boot Logs](bootlog.md)
 * [SetupWizard](setupwizard.md)
 * [Safetynet Patch](safetynet.md)
 * [ROM With GApps](rwg.md)
