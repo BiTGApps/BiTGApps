@@ -12,14 +12,23 @@ Here are some feature highlights:
 * Optimize APK files with Zipalign tool
 * Optimize application database with Sqlite tool
 
+## Release Tag
+
+![](https://img.shields.io/badge/BiTGApps-%20R20-blue.svg?style=flat-square)
+![](https://img.shields.io/badge/Addon-%20R8-blue.svg?style=flat-square)
+![](https://img.shields.io/badge/APK-%20v1.3-blue.svg?style=flat-square)
+
 ## Downloads
 
-[![](https://img.shields.io/badge/ARM-%20R20-green.svg?style=flat-square)](https://bitgapps.com/downloads/arm)
-[![](https://img.shields.io/badge/ARM64-%20R20-green.svg?style=flat-square)](https://bitgapps.com/downloads/arm64)
-[![](https://img.shields.io/badge/Addons-%20R8-green.svg?style=flat-square)](https://bitgapps.com/downloads/addon)
+[![](https://img.shields.io/badge/BiTGApps-%20ARM-green.svg?style=flat-square)](https://bitgapps.com/downloads/arm)
 <br>
-[![](https://img.shields.io/badge/Configs-%20Generic-red.svg?style=flat-square)](https://bitgapps.com/downloads/configs)
-[![](https://img.shields.io/badge/APK-%20v1.3-red.svg?style=flat-square)](https://bitgapps.com/downloads/APK)
+[![](https://img.shields.io/badge/BiTGApps-%20ARM64-green.svg?style=flat-square)](https://bitgapps.com/downloads/arm64)
+<br>
+[![](https://img.shields.io/badge/BiTGApps-%20Addon-green.svg?style=flat-square)](https://bitgapps.com/downloads/addon)
+<br>
+[![](https://img.shields.io/badge/BiTGApps-%20Configs-red.svg?style=flat-square)](https://bitgapps.com/downloads/configs)
+<br>
+[![](https://img.shields.io/badge/BiTGApps-%20APK-red.svg?style=flat-square)](https://bitgapps.com/downloads/APK)
 
 ## Useful Links
 
