@@ -6,11 +6,25 @@
 
 A custom GApps package which contain minimal, But has all the required Google Applications to get Google Services functionality. BiTGApps support many custom features.
 
-Here are some feature highlights:
+Here are feature highlights:
 
+* Minimal build size
+* Package size less than 90MB
 * Battery Optimization for GMS Core and its component
 * Optimize APK files with Zipalign tool
 * Optimize application database with Sqlite tool
+* Safetynet Patch for passing CTS profile
+* Disable Privileged App permission
+* Enable Battery Optimization for all GApps
+* It can be installed in Custom OS shipped with GApps
+* Addon packages for supporting additional GApps packages
+* No SetupWizard after first boot
+* Our own OTA survival script
+
+## Packages
+
+[![](https://img.shields.io/badge/List-%20GApps-teal.svg?style=flat-square)](https://github.com/BiTGApps/BiTGApps/blob/master/packages/gapps.md)
+[![](https://img.shields.io/badge/List-%20Addon-teal.svg?style=flat-square)](https://github.com/BiTGApps/BiTGApps/blob/master/packages/addon.md)
 
 ## Release Tag
 
