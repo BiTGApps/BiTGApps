@@ -7,6 +7,7 @@
 * [Privileged Permissions Patch](privileged.md)
 * [ROM With GApps](rwg.md)
 * [Additional Packages](addon.md)
+* [Pre-Installed Packages](installs.md)
 * [Known Issue](bug.md)
 * [Device Partition](partitions.md)
 * [File Structure](structure.md)
